@@ -65,14 +65,3 @@ We are **Micro Evaluation Group** — a boutique security firm specializing in h
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
-
-### Contributing
-
-We welcome contributions from everyone! Check out our [Contributing Guide](https://github.com/Micro-Evaluation-Group/.github/blob/main/CONTRIBUTING.md) to get started.
-
-<p align="center">
-  <a href="https://github.com/Micro-Evaluation-Group/.github/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
-  </a>
-</p>
