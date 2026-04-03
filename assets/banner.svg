@@ -84,11 +84,7 @@
     <text x="190" y="170" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#08B5FF" text-anchor="middle" font-weight="500">Open Source</text>
   </g>
   <g>
-    <rect x="252" y="152" width="110" height="26" rx="13" fill="#1544AD" opacity="0.2"/>
-    <text x="307" y="170" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#4DD4FF" text-anchor="middle" font-weight="500">We're Hiring</text>
-  </g>
-  <g>
-    <rect x="374" y="152" width="100" height="26" rx="13" fill="#1544AD" opacity="0.2"/>
-    <text x="424" y="170" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8babd8" text-anchor="middle" font-weight="500">Community</text>
+    <rect x="252" y="152" width="100" height="26" rx="13" fill="#1544AD" opacity="0.2"/>
+    <text x="302" y="170" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8babd8" text-anchor="middle" font-weight="500">Community</text>
   </g>
 </svg>
