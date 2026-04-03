@@ -28,7 +28,16 @@ We are **Micro Evaluation Group** — a boutique security firm specializing in h
 ### Latest Activity
 
 <!-- ACTIVITY:START -->
-*This section is auto-updated by GitHub Actions. See [how it works](.github/workflows/update-readme.yml).*
+- 🔨 Pushed **0 commits** to [Micro-Evaluation-Group/.github](https://github.com/Micro-Evaluation-Group/.github) — *Apr 03*
+- 🌿 Created branch `main` in [Micro-Evaluation-Group/.github](https://github.com/Micro-Evaluation-Group/.github) — *Apr 03*
+- 🌿 Created branch `dependabot/cargo/sha2-0.11.0` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Mar 31*
+- 🌿 Created branch `dependabot/github_actions/actions/deploy-pages-5.0.0` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Mar 31*
+- 🔃 Opened PR #5 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Mar 31*
+- 🔃 Opened PR #4 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Mar 31*
+- 🔨 Pushed **0 commits** to [Micro-Evaluation-Group/copilot-js](https://github.com/Micro-Evaluation-Group/copilot-js) — *Mar 31*
+- 🔨 Pushed **0 commits** to [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Mar 25*
+
+<sub>Last updated: Apr 03, 2026 at 20:07 UTC</sub>
 <!-- ACTIVITY:END -->
 
 ---
@@ -39,6 +48,8 @@ We are **Micro Evaluation Group** — a boutique security firm specializing in h
 - [copilot-js: Probing the Security Boundaries of Microsoft Copilot in Word](https://meg.rip/copilot-js-probing-the-security-boundaries-of-microsoft-copilot-in-word/) — *Mar 31, 2026*
 - [Introducing CrashRustler: Modern Crash Capture and Triage for macOS](https://meg.rip/introducing-crashrustler-modern-crash-capture-and-triage-for-macos/) — *Mar 24, 2026*
 - [The macOS Crash Triage Tool Gap Has Been Growing Since 2017](https://meg.rip/the-macos-crash-triage-tool-gap-has-been-growing-since-2017/) — *Mar 24, 2026*
+- [Why Micro Evaluation Group?](https://meg.rip/why-micro-evaluation-group/) — *Mar 06, 2026*
+- [On Mission, On Purpose](https://meg.rip/on-mission-on-purpose/) — *Jul 14, 2025*
 <!-- BLOG:END -->
 
 ---
