@@ -2,7 +2,6 @@ name: Update Profile README
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -13,11 +12,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           token: ${{ secrets.PAT }}
+          persist-credentials: false
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.12'
 
@@ -26,13 +26,20 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORG_NAME: Micro-Evaluation-Group
           BLOG_RSS_URL: https://meg.rip/rss/
         run: python scripts/update_readme.py
 
-      - name: Commit changes
+      - name: Commit and push changes
+        env:
+          PAT: ${{ secrets.PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add profile/README.md && git commit -m "chore: update profile readme" && git push)
+          if ! git diff --quiet; then
+            git add profile/README.md
+            git commit -m "chore: update profile readme"
+            git remote set-url origin "https://x-access-token:${PAT}@github.com/Micro-Evaluation-Group/.github.git"
+            git push
+          fi
