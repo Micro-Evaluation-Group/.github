@@ -1,8 +1,8 @@
 <a href="https://meg.rip">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.svg">
-    <img alt="Micro Evaluation Group" src="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.png">
+    <img alt="Micro Evaluation Group" src="https://raw.githubusercontent.com/Micro-Evaluation-Group/.github/main/assets/banner.png" width="100%">
   </picture>
 </a>
 
