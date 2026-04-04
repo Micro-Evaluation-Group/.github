@@ -59,9 +59,8 @@ def format_activity(events):
         dedup_key = None
 
         if event_type == "PushEvent":
-            count = event.get("payload", {}).get("size", 0)
             dedup_key = f"push-{repo}"
-            line = f"🔨 Pushed **{count} commit{'s' if count != 1 else ''}** to [{repo}](https://github.com/{repo})"
+            line = f"🔨 Pushed to [{repo}](https://github.com/{repo})"
 
         elif event_type == "CreateEvent":
             ref_type = event.get("payload", {}).get("ref_type", "")
