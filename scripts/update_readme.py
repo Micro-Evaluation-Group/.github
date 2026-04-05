@@ -144,7 +144,8 @@ def main():
     if events:
         activity_lines = format_activity(events)
         if activity_lines:
-            now = datetime.now(timezone.utc).strftime("%b %d, %Y at %H:%M UTC")
+            from zoneinfo import ZoneInfo
+            now = datetime.now(ZoneInfo("America/Chicago")).strftime("%b %d, %Y at %H:%M CT")
             activity_lines.append(f"\n<sub>Last updated: {now}</sub>")
             content = replace_section(
                 content, "<!-- ACTIVITY:START -->", "<!-- ACTIVITY:END -->", activity_lines
