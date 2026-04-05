@@ -10,7 +10,7 @@
 
 ### About Us
 
-We are **Micro Evaluation Group** — a boutique security firm specializing in human-driven software and hardware security. We combine hands-on vulnerability assessment with open-source security tooling and published research to deliver practical, real-world results.
+Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and security consulting firm with broad and deep expertise across the full spectrum of devices and software. MEG leverages decades of experience in offensive and defensive security to deliver results for customers.
 
 > *"Human-driven software and hardware security."*
 
