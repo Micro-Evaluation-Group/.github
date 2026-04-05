@@ -46,6 +46,8 @@ def format_activity(events):
             break
 
         repo = event.get("repo", {}).get("name", "")
+        if repo == f"{ORG_NAME}/.github":
+            continue
         event_type = event.get("type", "")
         created = event.get("created_at", "")
 
