@@ -41,5 +41,6 @@ jobs:
             git add profile/README.md
             git commit -m "chore: update profile readme"
             git remote set-url origin "https://x-access-token:${PAT}@github.com/Micro-Evaluation-Group/.github.git"
+            git pull --rebase origin main
             git push
           fi
