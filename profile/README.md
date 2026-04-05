@@ -28,12 +28,11 @@ Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and
 ### Latest Activity
 
 <!-- ACTIVITY:START -->
-- 🔨 Pushed to [Micro-Evaluation-Group/.github](https://github.com/Micro-Evaluation-Group/.github) — *Apr 05*
-- 🔨 Pushed to [Micro-Evaluation-Group/TinyInst](https://github.com/Micro-Evaluation-Group/TinyInst) — *Apr 05*
-- 🌿 Created branch `feature/instrument-ranges-file` in [Micro-Evaluation-Group/TinyInst](https://github.com/Micro-Evaluation-Group/TinyInst) — *Apr 03*
-- 🔃 Opened PR #3 in [Micro-Evaluation-Group/.github](https://github.com/Micro-Evaluation-Group/.github) — *Apr 03*
+- 🔨 Pushed to [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Apr 05*
+- 🔃 Opened PR #7 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Apr 05*
+- 🌿 Created branch `feature/release-workflow-dispatch` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Apr 05*
 
-<sub>Last updated: Apr 05, 2026 at 12:09 UTC</sub>
+<sub>Last updated: Apr 05, 2026 at 18:11 UTC</sub>
 <!-- ACTIVITY:END -->
 
 ---
