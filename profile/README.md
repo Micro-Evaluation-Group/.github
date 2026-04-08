@@ -32,7 +32,7 @@ Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and
 - 🔃 Opened PR #7 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Apr 05*
 - 🌿 Created branch `feature/release-workflow-dispatch` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Apr 05*
 
-<sub>Last updated: Apr 08, 2026 at 07:18 CT</sub>
+<sub>Last updated: Apr 08, 2026 at 13:26 CT</sub>
 <!-- ACTIVITY:END -->
 
 ---
@@ -40,11 +40,11 @@ Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and
 ### Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Misled by Guard Malloc: A UAF That Wasn't](https://meg.rip/misled-by-guard-malloc-a-false-positive-in-macos-crash-triage/) — *Apr 08, 2026*
 - [copilot-js: Probing the Security Boundaries of Microsoft Copilot in Word](https://meg.rip/copilot-js-probing-the-security-boundaries-of-microsoft-copilot-in-word/) — *Mar 31, 2026*
 - [Introducing CrashRustler: Modern Crash Capture and Triage for macOS](https://meg.rip/introducing-crashrustler-modern-crash-capture-and-triage-for-macos/) — *Mar 24, 2026*
 - [The macOS Crash Triage Tool Gap Has Been Growing Since 2017](https://meg.rip/the-macos-crash-triage-tool-gap-has-been-growing-since-2017/) — *Mar 24, 2026*
 - [Why Micro Evaluation Group?](https://meg.rip/why-micro-evaluation-group/) — *Mar 06, 2026*
-- [On Mission, On Purpose](https://meg.rip/on-mission-on-purpose/) — *Jul 14, 2025*
 <!-- BLOG:END -->
 
 ---
