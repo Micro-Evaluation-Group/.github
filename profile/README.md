@@ -22,6 +22,7 @@ Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and
 |---------|-------------|-------|
 | [**copilot-js**](https://github.com/Micro-Evaluation-Group/copilot-js) | Inspect and execute JavaScript in remote WebViews (Office Copilot on macOS) | ![Stars](https://img.shields.io/github/stars/Micro-Evaluation-Group/copilot-js?style=flat-square&color=1544AD) |
 | [**CrashRustler**](https://github.com/Micro-Evaluation-Group/CrashRustler) | A Rust reimplementation of Apple's CrashWrangler | ![Stars](https://img.shields.io/github/stars/Micro-Evaluation-Group/CrashRustler?style=flat-square&color=08B5FF) |
+| [**nsjail-ts**](https://github.com/Micro-Evaluation-Group/nsjail-ts) | TypeScript wrapper for nsjail with secure defaults | ![Stars](https://img.shields.io/github/stars/Micro-Evaluation-Group/nsjail-ts?style=flat-square&color=1544AD) |
 
 ---
 
