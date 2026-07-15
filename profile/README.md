@@ -30,9 +30,14 @@ Micro Evaluation Group (MEG) is a highly specialized adversarial engineering and
 ### Latest Activity
 
 <!-- ACTIVITY:START -->
-- 🌿 Created branch `dependabot/github_actions/actions/checkout-7.0.0` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jun 23*
+- 🔃 Opened PR #17 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
+- 🌿 Created branch `dependabot/cargo/rustc-demangle-0.1.28` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
+- 🔃 Opened PR #16 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
+- 🌿 Created branch `dependabot/github_actions/softprops/action-gh-release-3.0.2` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
+- 🔃 Opened PR #15 in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
+- 🌿 Created branch `dependabot/github_actions/actions/stale-10.4.0` in [Micro-Evaluation-Group/CrashRustler](https://github.com/Micro-Evaluation-Group/CrashRustler) — *Jul 14*
 
-<sub>Last updated: Jun 30, 2026 at 07:40 CT</sub>
+<sub>Last updated: Jul 14, 2026 at 20:51 CT</sub>
 <!-- ACTIVITY:END -->
 
 ---
